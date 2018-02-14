@@ -1,0 +1,76 @@
+            int c;
+            if (rd_metric.Checked)
+            {
+                if (int.TryParse(tb_cm.Text, out c))
+                {
+                    centimeters = c;
+                    totInches = Convert.ToInt32(centimeters * .393701);
+                    feet = totInches / 12;
+                    inches = totInches % 12;
+                    tb_feet.Text = feet.ToString();
+                    tb_inches.Text = inches.ToString();
+
+                }
+            }
+
+totInches = Convert.ToInt32(centimeters * .393701);
+
+                        totInches = totInches + i;
+                        centimeters = totInches * 2.54;
+
+                    kilograms = pounds * .453592;
+
+                    pounds = kilograms * 2.20462;
+
+                else
+                {
+                    if (!string.IsNullOrWhiteSpace(tb_inches.Text))
+                    {
+                        tb_inches.Clear();
+                        MessageBox.Show("Please enter inches as a whole number");
+                    }
+                }
+
+
+        int feet,
+            inches,
+            totInches;
+        double pounds,
+            centimeters,
+            kilograms;
+
+BMI = k / (c*c)
+
+inches old
+
+        {
+            int i;
+            if (rd_customary.Checked)
+            {
+                if (!string.IsNullOrWhiteSpace(tb_inches.Text))
+                {
+                    if (int.TryParse(tb_inches.Text, out i))
+                    {
+                        if (inches < 13)
+                        {
+                            inches = i;
+                            totInches = totInches + i;
+                            centimeters = totInches * 2.54;
+                            tb_cm.Text = centimeters.ToString();
+                        }
+                        else
+                        {
+                            MessageBox.Show("Yehhhh... um... there are 12 inches in a foot.... ");
+                            tb_inches.Clear();
+                        }
+                    }
+                    else
+                    {
+                        tb_inches.Clear();
+                        MessageBox.Show("Please enter inches as a whole number");
+
+                    }
+                }
+            }
+
+        }

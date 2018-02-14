@@ -1,0 +1,28 @@
+C:\Users\Charles\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\Charles\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\Charles\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\Charles\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csprojResolveAssemblyReference.cache
+C:\Users\Charles\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.form_BMI.resources
+C:\Users\Charles\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\Users\Charles\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.Cache
+C:\Users\Charles\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\Charles\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csprojResolveAssemblyReference.cache
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.form_BMI.resources
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.Cache
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csprojResolveAssemblyReference.cache
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.form_BMI.resources
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.Cache
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC 1311 Prog II\Chapter 12\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb
